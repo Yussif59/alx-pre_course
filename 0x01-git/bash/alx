@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-echo "ALx School is so cool!"
-=======
-ALX School
->>>>>>> update_script
+ecgo "ALx school"
