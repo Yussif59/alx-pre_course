@@ -1,2 +1,2 @@
 #!/bin/bash
-ecgo "ALx school"
+echo "ALx School"
